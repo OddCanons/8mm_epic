@@ -1,6 +1,6 @@
 # 8mm Epic odd canon
 
-With the releases of new versions of [Adeptus Titanicus](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Core-Game-EN-2020) in 2018 and [Aeronautica Imperialis](https://www.games-workshop.com/en-US/Aeronautica-Imperialis-Wings-of-Vengenace) in 2019, Games Workshop has produced brilliantly detailed miniatures in the "new Epic" (roughly) 8mm scale. While Adeptus Titanicus and Aeronautica Imperialis are good games in their own rights, the new models present an opportunity to play Epic games in this new scale. There are many options for filling out armies with 8mm models, but these rules can also be used to make for much larger clashes of titans, knights, and any support they might have.
+With the releases of new versions of [Adeptus Titanicus](https://www.games-workshop.com/en-US/Adeptus-Titanicus-Core-Game-EN-2020) in 2018 and [Aeronautica Imperialis](https://www.games-workshop.com/en-US/Aeronautica-Imperialis-Wings-of-Vengenace) in 2019, Games Workshop has produced brilliantly detailed miniatures in the "new Epic" (roughly) 8mm scale. While Adeptus Titanicus and Aeronautica Imperialis are good games in their own rights, the new models present an opportunity to play Epic games in this new scale. There are many options for filling out armies with 8mm models, but these rules can also be used to make for much larger clashes of titans, knights, and any air support they might have.
 
 ## Epic Gaming
 
@@ -25,6 +25,7 @@ The Epic-UK [rules](https://netepic.org/core-rules/), including [Army Lists](htt
 * [8mm Rules Changes](8mm_epic_rules.md)
 * [8mm Adeptus Titanicus in Epic](8mm_epic_titanicus.md)
 * [8mm Aeronautica Imperialis in Epic](8mm_epic_aeronatuica.md)
+* [8mm Misc Units](8mm_epic_misc.md)
 * [8mm Eldar Conversions](8mm_epic_eldar.md)
 * [8mm Ork Conversions](8mm_epic_orks.md)
 
