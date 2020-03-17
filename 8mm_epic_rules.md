@@ -6,11 +6,12 @@ These modifications are intended to bring standard Epic Armageddon rules, as cap
 
 ## Distances
 
-Multiply all distances by 1 1/3, rounding to the nearest 5cm. Most Epic distances, particularly weapon ranges, divide evenly by 3. For the few that don't, there's a simple table below. For any distances less than 5cm, add +1cm rather than multiplying by 1 1/3. For example, a Warlord Titan can step over terrain that is up to _3cm_ wide in 8mm scale.
+Multiply all distances by 1 1/3, rounding to the nearest 5cm. Most Epic distances, particularly weapon ranges, divide evenly by 3. For the few that don't, there's a simple table below. For any distances less than 5cm, add +1cm rather than multiplying by 1 1/3. For example, a Warlord Titan can step over terrain that is up to _3cm_ wide in 8mm scale. From 5cm to 9cm, add 2cm.
 
 6mm | -> | 8mm | | | 6mm | -> | 8mm
 --- | -- | --- | - | - | -- | -- | ---
-5cm | | 7cm | | | 65cm | | 85cm
+2-5cm | | +1cm | | | | | 
+5-9cm | | +2cm | | | 65cm | | 85cm
 10cm | | 15cm | | | 70cm | | 95cm
 15cm | | 20cm | | | 75cm | | 100cm
 20cm | | 25cm | | | 80cm | | 105cm
@@ -24,8 +25,6 @@ Multiply all distances by 1 1/3, rounding to the nearest 5cm. Most Epic distance
 60cm | | 80cm | | | 120cm | | 160cm
 
 This rule applies to distances provided in the accompanying unit rules which are left at 6mm scale for ease of comparison with other units.
-
-The biggest impacts from the rounding are the relative movement increase to units that move 25cm and to make the shortest distance, 5cm, comparatively shorter.
 
 ## Blast Markers and Templates
 
@@ -64,7 +63,7 @@ Eldar Wraithlords and Wraithguard, with their lack of scale-specific features, m
 
 ### Other Models
 
-
+If you're already converting or printing models for 8mm play, there are some great heroic-scale Forge World models to add to the 8mm fun.
 
 [8mm Misc Units](8mm_epic_misc.md)
 
