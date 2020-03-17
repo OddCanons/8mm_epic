@@ -42,6 +42,16 @@ For 8mm Epic, use a 10cm (or 4 inch) diameter Blast template and a 16cm (6.3 inc
 
 ## Specific Units
 
+### Minor Changes to Epic Units
+
+Where Epic units are too far from their Warhammer 40,000 squad or vehicle rules, we make minor adjustments to allow for the slightly larger 8mm scale units to more closely match their Warhammer 40,000 scale versions.
+
+#### Adeptus Astartes
+
+**Space Marine Scouts** may have a single unit per detachment that replaces the Heavy Bolter with "Sniper Rifles, 30cm, AP5+" and adds the __Sniper__ trait. A Scout Detachment with a sniper unit costs +10 points.
+
+**Space Marine Terminators** have a single Assault Cannon, instead of 2x. A Terminator Detachment costs 285 points.
+
 ### Imperial Titans and Knights
 
 These rules fully replace the Epic-UK Adeptus Titanicus titan and knight rules. The Epic-UK rules create differences where they are indicated by neither the Epic Armageddon rules nor Adeptus Titanicus, as with the _Scout_ Turbo Laser Destructor, and ignore differences where they should exist, as with the Gatling Blaster versus the Macro-Gatling Blaster. 8mm Epic goes back to the updated Epic Armageddon rules and extrapolates from them using the relative capabilities of the Adeptus Titanicus weapons and models.

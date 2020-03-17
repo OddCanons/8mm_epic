@@ -138,7 +138,13 @@ Notes: _Fearless, Reinforced Armour, Walker._ May step over units and impassable
 >
 > Imperial Knights are protected by ion shields. Ion shields are created by directional field generators that are much less sophisticated than the void shields carried by titans.
 >
-> Each Imperial Knight receives a special 5+ saving throw that can be taken instead of its normal saving throw. 
+> Each Imperial Knight receives a special 4+ saving throw that can be taken instead of its normal saving throw. This save may always be taken against ranged attacks, even against Titan Killer or Macro-Weapon attacks. Make a separate save for each point of damage. If a vehicle with a ion shield also has reinforced armour, then it is allowed to re-roll its saving throw unless hit by Lance, Macro-Weapon, or Titan Killer attacks, but the re-roll must be made using the units armour save rather than the ion shield save. No Blast markers are placed for hits that are saved by an ion shield.
+>
+> Being directional, ion shields are more susceptible to crossfire than other types of protection. An ion shield save made for a unit in a crossfire is made with a -2 penalty.
+
+> **ION SHIELD GAUNTLETS**
+>
+> Some Cerastus Knights are armed with ion shield gauntlets. 
 
 ## Notes
 
